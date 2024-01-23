@@ -56,6 +56,8 @@ MonoBehaviour:
   seekPerception: {fileID: 821660561451615518}
   fleePerception: {fileID: 428283712124830498}
   flockPerception: {fileID: 0}
+  MinMarker: {fileID: 4343790722799756887, guid: 50a2c16cadfdc1d4aa09105cdafd626a, type: 3}
+  MaxMarker: {fileID: 6958709758871924275, guid: 06b3044e0d48cd24bacedd9748cf4ba1, type: 3}
 --- !u!114 &2367194085756666398
 MonoBehaviour:
   m_ObjectHideFlags: 0

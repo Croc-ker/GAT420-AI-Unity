@@ -10,6 +10,7 @@ TagManager:
   - chicken
   - cat
   - warrior
+  - Agent07
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - Spawn
   - Water
   - UI
-  - 
-  - 
+  - World
+  - NavNode
   - 
   - 
   - 
